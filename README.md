@@ -13,7 +13,7 @@ A fun and classic memory game where you try to get all the cards while avoid get
 
 ## Preview
 
-Now live on Vercel:
+[Now live on Vercel!](https://game-memory-cards.vercel.app/)
 ![screenshot](/src/assets/screenshot.png)
 
 ## What I've learned
